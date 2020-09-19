@@ -4,7 +4,7 @@
 	branch = master
 [submodule "Backplane"]
 	path = Backplane
-	url = .https://github.com/purduerov/X13-Backplane.git
+	url = https://github.com/purduerov/X13-Backplane.git
 	branch = master
 [submodule "Distribution"]
 	path = Distribution
