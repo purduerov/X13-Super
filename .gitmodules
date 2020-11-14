@@ -40,7 +40,7 @@
 	branch = Version1
 [submodule "Solenoid"]
 	path = Solenoid
-	url = https://github.com/purduerov/Solenoid
+	url = https://github.com/purduerov/Solenoid/
 	branch = master
 [submodule "VESC-Test"]
 	path = VESC-Test
