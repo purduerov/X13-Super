@@ -34,7 +34,7 @@ To merge two branches that have diverged, you have several options.
 changes from both files. When conflicts arise, it will prefer local/current (ours) changes in 
 `-X ours` and the remote/merging branch (theirs) changes in `-X theirs`.
 2. `git merge -s ours` this will "merge" the other branch, but discard all of it's changes.
-3. If you have diverged histories and want to deleted yours, you can "undo" or "delete" several commits,
+3. If you have diverged histories and want to delete yours, you can "undo" or "delete" several commits,
 then fast-forward merge. It is recommended to first make a "backup" branch (rather than messing with reflog), 
 by running `git branch local-backup` (local-backup can be any name). Then run `git reset --hard HEAD~N` where
 `N` is the number of commits to undo. The run `git merge branch-name` or `git pull` to fastforward merge the
