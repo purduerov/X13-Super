@@ -46,3 +46,6 @@
 	path = VESC-Test
 	url = https://github.com/purduerov/VESC-Test/
 	branch = master
+[submodule "Electrical-RnD"]
+	path = Electrical-RnD
+	url = https://github.com/purduerov/Electrical-RnD/
