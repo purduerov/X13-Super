@@ -1,48 +1,48 @@
 [submodule "CAN-Test-Board"]
 	path = CAN-Test-Board
-	url = https://github.com/purduerov/Can-Test-Board.git
+	url = git@github.com/purduerov/Can-Test-Board.git
 	branch = master
 [submodule "Backplane"]
 	path = Backplane
-	url = https://github.com/purduerov/X13-Backplane.git
+	url = git@github.com/purduerov/X13-Backplane.git
 	branch = master
 [submodule "Distribution"]
 	path = Distribution
-	url = https://github.com/purduerov/X13-Distribution/
+	url = git@github.com/purduerov/X13-Distribution/
 	branch = master
 [submodule "Power-Conversion"]
 	path = Power-Conversion
-	url = https://github.com/purduerov/X13-Power-Conversion/
+	url = git@github.com/purduerov/X13-Power-Conversion/
 	branch = master
 [submodule "Design-Blocks"]
 	path = Design-Blocks
-	url = https://github.com/purduerov/X13-Design-Blocks/
+	url = git@github.com/purduerov/X13-Design-Blocks/
 	branch = master
 [submodule "PI-Shield"]
 	path = PI-Shield
-	url = https://github.com/purduerov/X13-PI-Shield/
+	url = git@github.com/purduerov/X13-PI-Shield/
 	branch = master
 [submodule "Power-Bricks"]
 	path = Power-Bricks
-	url = https://github.com/purduerov/X13-Power-Bricks/
+	url = git@github.com/purduerov/X13-Power-Bricks/
 	branch = master
 [submodule "QuadESC"]
 	path = QuadESC
-	url = https://github.com/purduerov/X13-QuadESC/
+	url = git@github.com/purduerov/X13-QuadESC/
 	branch = master
 [submodule "Parts-Library"]
 	path = Parts-Library
-	url = https://github.com/purduerov/X13-Parts-Library/
+	url = git@github.com/purduerov/X13-Parts-Library/
 	branch = master
 [submodule "Camera-Board"]
 	path = Camera-Board
-	url = https://github.com/purduerov/X12-Camera-Board/
+	url = git@github.com/purduerov/X12-Camera-Board/
 	branch = master
 [submodule "Solenoid"]
 	path = Solenoid
-	url = https://github.com/purduerov/X13-Solenoid/
+	url = git@github.com/purduerov/X13-Solenoid/
 	branch = master
 [submodule "VESC-Test"]
 	path = VESC-Test
-	url = https://github.com/purduerov/VESC-Test/
+	url = git@github.com/purduerov/VESC-Test/
 	branch = master
