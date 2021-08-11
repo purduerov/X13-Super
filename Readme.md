@@ -4,6 +4,8 @@ This is an advanced way to manage all the board repos for IEEE ROV.
 Each board's repo is treated as a submodule. 
 Git submodules do not track the files inside a submodule, they only point to a commit in the submodule.
 
+### Updating to changes
+
 To get the version pointed at by the super module (this repo), run:  
 `git submodule update --init --recursive`  
 This can be accessed easier via:  
@@ -23,6 +25,8 @@ commits from the branch tracked in `.gitmodules`, but will finished in a detache
 
 To set up a new submodule, run:  
 `git submodule add link.copied.from.github`  
+To add tracking the for a branch such as master, use:  
+`git submodule add -b master link.copied.from.github`  
 
 
 ### Other: Merging and merge conflicts

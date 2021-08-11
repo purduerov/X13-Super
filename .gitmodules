@@ -49,3 +49,4 @@
 [submodule "Electrical-RnD"]
 	path = Electrical-RnD
 	url = https://github.com/purduerov/Electrical-RnD/
+	branch = master
